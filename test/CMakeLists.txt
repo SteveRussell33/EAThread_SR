@@ -5,7 +5,7 @@
 #-------------------------------------------------------------------------------------------
 # CMake info
 #-------------------------------------------------------------------------------------------
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.5.0)
 project(EAThreadTest CXX)
 include(CTest)
 
